@@ -12,14 +12,14 @@ Evaluation: - Performance is assessed through the use of confusion matrices and 
 Requirements
 Make sure you have the following dependencies installed:
 
-Python 3.x
-TensorFlow (>= 2.x)
-Keras (bundled with TensorFlow)
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+-Python 3.x
+-TensorFlow (>= 2.x)
+-Keras (bundled with TensorFlow)
+-NumPy
+-Pandas
+-Scikit-learn
+-Matplotlib
+-Seaborn
 You can install the required packages using pip:
 
 pip install tensorflow numpy pandas scikit-learn matplotlib seaborn
