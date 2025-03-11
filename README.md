@@ -2,7 +2,7 @@
 # EEG-Brain-Signal-Emotion-Classification
 This repository includes code for categorizing emotions based on EEG brain waves. This project has been done as a part of EDGE Project course F028 & F023: Basic Programming with Python. After applying preprocessing techniques to a dataset of EEG signals recorded during various emotional stimuli, the project trains a neural network model to categorize the emotions.
 
-##Summary
+## Summary
 The process of converting characteristics to numerical values is known as "data preprocessing." Managing values that are missing. Standardization is used for feature scaling. String labels are converted to one-hot format after being encoded to numerical values.
 
 
